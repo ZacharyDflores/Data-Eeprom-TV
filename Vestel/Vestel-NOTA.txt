@@ -1,0 +1,25 @@
+
+Los chasis Vestel, son utilizados por muy diversas
+marcas, entre ellas:
+
+ Basic Line
+ Blue Sky
+ Crown
+ Firts Line
+ Mitsai
+ Precision
+ Radiotone
+ Sakura
+ Shneider
+ Watson    .... y otras.
+
+
+Por lo cual, las memorias EEPROM de TV Vestel,
+están indicadas por # de chasis, para facilitar su
+identificación y utilización en las otras marcas, 
+que usan los mismos chasis.
+
+
+-----------------------------
+www.comunidadelectronicos.com
+-----------------------------

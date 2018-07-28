@@ -1,0 +1,40 @@
+
+Detalle de la compatibilidad de memorias EEPROM para los chasis RCA / GE
+
+
+CTC170A, CTC175A, CTC175A2 - archivo: RCA-CTC175A.e2p
+
+CTC170K, CTC170L, CTC175L - archivo: RCA-CTC175L.e2p
+
+CTC175C, CTC175C2  -  archivo: RCA-CTC175C.e2p
+
+CTC175K, CTC175K2, CTC175L, CTC175L2 - archivo: RCA-CTC175L.e2p
+
+CTC176G2 /P2 / R2 / S2 - archivos: RCA-CTC176P2.e2p o GE-CTC176P2.e2p
+
+CTC177AA, CTC177AK - archivo: RCA-CTC177AA.e2p
+
+CTC177AD, CTC177AG - archivo: RCA-CTC177AG.e2p
+
+CTC177AF2, CTC177AM2 - archivo: RCA-CTC177AF2.e2p
+
+CTC177BE, CTC177BG - archivo: RCA-CTC177BE.e2p
+
+CTC185A / AA / AB / B / M - archivos: RCA-CTC185 o RCA-CTC185A
+
+CTC186A, CTC186D - archivos: RCA-CTC186A.e2p o RCA-CTC186D.e2p
+
+CTC187AA, CTC187AC - archivo: RCA-CTC187AA.e2p
+
+CTC187AB, CTC187AD - archivo: RCA-CTC187AD.e2p o RCA-CTC187AB.e2p
+
+CTC187BC / BD / BF / BD2 / BF2 - archivo: RCA-CTC187BC.e2p o RCA-CTC187BD 
+
+CTC187BH, CTC187BJ - archivo: CTC-187BH.e2p
+
+CTC187CJ, CTC187CL - archivo: CTC-187CJ.e2p 
+
+
+---------------------------------
+  www.comunidadelectronicos.com
+---------------------------------

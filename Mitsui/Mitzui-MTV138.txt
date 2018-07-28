@@ -1,0 +1,5 @@
+mitzui mtv 138  de 14" con integrados
+C:I.001.-micro LC863224A
+    002.-24C04-6
+    231.-jungla LA76814K
+    402.-TC4052BP

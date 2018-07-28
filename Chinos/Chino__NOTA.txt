@@ -1,0 +1,1 @@
+Debido a que los TV Chinos se comercializan con una gran variedad de "Marcas" diferentes, los archivos se describen por la identificación del Microcontrolador usado.
